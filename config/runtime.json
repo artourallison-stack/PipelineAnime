@@ -1,0 +1,10 @@
+{
+  "profile": "exploration",
+  "active_agents": [
+    "visual_generator",
+    "arbiter",
+    "police_engineer"
+  ],
+  "silence_seconds": 2.0,
+  "contrast_boost": 0.05
+}
